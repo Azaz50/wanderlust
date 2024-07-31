@@ -108,6 +108,6 @@ app.all("*", (req, res, next) => {
 });
 
 
-app.listen(8080, ()=> {
-    console.log("server is listening to port 8080");
+app.listen(8070, ()=> {
+    console.log("server is listening to port 8070");
 });
